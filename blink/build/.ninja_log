@@ -4,7 +4,7 @@
 899	1127	7462255959874920	C:/Users/Semra/Documents/ECE5785/Lab00/blink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default_padded_checksummed.S	e7251b5624bc08a
 91	320	7462255949811610	pico-sdk/src/rp2040/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj	ac4059728c03aaaf
 114	436	7462255953152262	C:/Users/Semra/Documents/ECE5785/Lab00/blink/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h	3ad190ba2763d485
-1128	2767	7462255960141020	CMakeFiles/blink.dir/blink.c.obj	cff7695fb83ebd73
+125	2288	7465728373916955	CMakeFiles/blink.dir/blink.c.obj	cff7695fb83ebd73
 797	898	7462255957668270	C:/Users/Semra/Documents/ECE5785/Lab00/blink/build/pico-sdk/src/rp2040/boot_stage2/bs2_default.bin	172573f340ca635d
 7313	9169	7462256022014213	CMakeFiles/blink.dir/C_/Users/Semra/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_float/float_init_rom_rp2040.c.obj	8fb1a1761381f44b
 114	436	7462255953152262	pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h	3ad190ba2763d485
@@ -82,6 +82,6 @@
 14168	15780	7462256090533388	CMakeFiles/blink.dir/C_/Users/Semra/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_async_context/async_context_threadsafe_background.c.obj	725d03a658065d2a
 14034	15858	7462256089931120	CMakeFiles/blink.dir/C_/Users/Semra/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_cyw43_driver/cyw43_driver.c.obj	19858dd450a79c01
 11283	16522	7462256061941131	CMakeFiles/blink.dir/C_/Users/Semra/.pico-sdk/sdk/2.0.0/lib/cyw43-driver/src/cyw43_ll.c.obj	886f64a0ede66be4
-16523	17690	7462256114077431	blink.elf	ba9ac6fb39781f3b
-93	2310	7464027694743984	CMakeFiles/blink.dir/blink.c.obj	cff7695fb83ebd73
-2311	6526	7464027716913912	blink.elf	ba9ac6fb39781f3b
+2292	6279	7465728395614145	blink.elf	ba9ac6fb39781f3b
+139	2734	7465731174208526	build.ninja	1582c4f135959397
+71	2572	7465731174208526	build.ninja	1582c4f135959397
